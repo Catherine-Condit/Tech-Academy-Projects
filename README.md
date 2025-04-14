@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-This repository is for my Tech Academy projects.
+This repository is for my Version Control Practice projects for The Tech Academy.
